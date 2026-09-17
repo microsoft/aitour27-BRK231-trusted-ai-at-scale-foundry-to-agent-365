@@ -9,7 +9,6 @@ Presenter, re-delivery, and train-the-trainer materials for this session.
 | Item | Link | Notes |
 |---|---|---|
 | Delivery deck | [English](https://aka.ms/aitour27/BRK231/slides/en) | Required URL |
-| Session recording | [Recording](https://aka.ms/aitour27/BRK231/youtube) | Optional URL when available |
 | Attendee landing page | [Session README](../README.md) | Public starting point |
 | Workshop/lab instructions | [Instructions](../instructions/README.md) | Remove this row when not applicable |
 
