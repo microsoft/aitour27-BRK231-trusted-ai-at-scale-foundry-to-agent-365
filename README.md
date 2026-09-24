@@ -37,7 +37,9 @@ Fill in the sections below yourself, then:
 
 ### Session description
 
-Add your session description here. Keep it concise — 2-3 sentences about what attendees will learn and why it matters.
+Learn how Microsoft Foundry, GitHub Copilot, Copilot Studio, and Agent 365 work together to help organizations build, operationalize, govern, and scale AI agents across the enterprise with security, control, and trust.
+
+> **Storyline:** The session follows **Caldova Pharmaceuticals**, a fictional global pharmaceutical company facing a sudden manufacturing capacity gap. Caldova's teams build a **supplier intelligence agent** in Copilot Studio, optimize an **invoice assurance agent** in Microsoft Foundry, and then **observe, onboard, and govern** every agent across the enterprise with Agent 365.
 
 ### 🚀 Getting started
 
@@ -45,33 +47,43 @@ Add your session description here. Keep it concise — 2-3 sentences about what 
 
 If you're following along during a live session:
 
-1. Step 1
-2. Step 2
-3. Open [`instructions/`](instructions/README.md) when this session includes
-   attendee step-by-step guidance
+1. Follow the three live demos: Copilot Studio, Microsoft Foundry, and Agent 365.
+2. Scan the QR code on the closing slide, or visit [aka.ms/aitour27/BRK231](https://aka.ms/aitour27/BRK231), to open this repository.
+3. After the session, open [`instructions/`](instructions/README.md) to try each step at your own pace.
 
 #### On your own
 
 If you're learning at your own pace:
 
-1. Clone this repository
-2. Set up your environment
-3. Follow the session guidance in [`instructions/`](instructions/README.md), or
-   use the linked docs-site entry point when this repository uses that pattern
+1. Clone this repository.
+2. Read [`docs/`](docs/README.md) for the Caldova scenario and the build, ground, secure and govern, and scale model.
+3. Follow [`instructions/`](instructions/README.md) to explore Copilot Studio, Microsoft Foundry, and Agent 365.
 
 ### 🎯 Learning outcomes
 
 By the end of this session, you will be able to:
 
-- Outcome 1
-- Outcome 2
-- Outcome 3
+- Explain how Microsoft Foundry, GitHub Copilot, Copilot Studio, and Agent 365 fit together across the enterprise AI agent lifecycle.
+- Build and operationalize AI agents using Microsoft Foundry, GitHub Copilot, and Copilot Studio.
+- Govern and scale AI agents with security, control, and trust using Agent 365.
+
+### 🧩 The Caldova story in this session
+
+| Act | What happens | Persona | Product |
+|---|---|---|---|
+| 1 | Understand the AI scale challenge: why pilots stall, and one connected system to build, ground, secure and govern, and scale agents | — | — |
+| 2 | Build a conversational agent grounded in supplier contracts that recommends the best-fit contract manufacturer, with evidence | Charlotte Waltson, VP of Procurement | Microsoft Copilot Studio |
+| 3 | Fine-tune a smaller model on production agent traces to keep invoice assurance quality while cutting cost and latency | Sarah Perez, AI App Developer | Microsoft Foundry |
+| 4 | Observe, onboard, and govern every agent across the enterprise | Carlos Slattery, Chief Technology Officer | Microsoft Agent 365 |
+| 5 | Key takeaways and next steps | — | — |
 
 ### 💻 Technologies used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- Microsoft Foundry (Foundry IQ, fine-tuning, Foundry Agent Service)
+- GitHub Copilot
+- Microsoft Copilot Studio
+- Microsoft Agent 365
+- Microsoft Entra, Microsoft Purview, and Microsoft Defender
 
 ### 📚 Continue your learning
 
@@ -79,6 +91,9 @@ Pick your next step based on your learning style:
 
 | Resource | What you'll get |
 |----------|-----------------|
+| **[Learn Microsoft Foundry](https://aka.ms/AITourFoundryIntro)** | Get started building AI apps and agents with Microsoft Foundry |
+| **[Agent Academy](https://aka.ms/Agent-Academy)** | Learn to build agents with Microsoft Copilot Studio |
+| **[Learn Agent 365](https://aka.ms/A365Learn)** | Learn to observe, govern, and secure agents with Microsoft Agent 365 |
 | **[Microsoft Learn](https://learn.microsoft.com)** | Official documentation and guided learning paths on these topics |
 | **[AI Tour 2027 Resource Center](https://aka.ms/aitour27-resource-center)** | Additional session repos and materials from AI Tour 2027 |
 | **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-AITour27)** | Connect with other learners and experts in our Discord community |
@@ -109,10 +124,14 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center">
+        <sub><b>Dona Sarkar</b></sub><br />
+            📢
+    </td>
+    <td align="center"><a href="http://github.com/amynic">
+        <img src="https://github.com/amynic.png" width="100px;" alt="Amy Boyd"/><br />
+        <sub><b>Amy Boyd</b></sub></a><br />
+            <a href="https://github.com/amynic" title="talk">📢</a>
     </td>
 </tr></table>
 
@@ -120,6 +139,14 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 Presenters and re-delivery partners can find the deck, recordings, presenter
 notes, and delivery guidance in [`delivery-resources/`](delivery-resources/README.md).
+
+### 🤝 Contributing
+
+This project welcomes contributions and suggestions. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit [Contributor License Agreements](https://cla.opensource.microsoft.com).
+
+When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately. Simply follow the instructions provided by the bot. You will only need to do this once across all repos.
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any questions or comments.
 
 ### ⚖️ Trademarks
 
