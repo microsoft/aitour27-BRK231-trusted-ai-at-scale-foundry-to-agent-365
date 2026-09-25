@@ -124,22 +124,25 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
 
 <table>
 <tr>
-    <td align="center">
-        <sub><b>Dona Sarkar</b></sub><br />
-            📢
+    <td align="center"><a href="http://github.com/DonaSarkar">
+        <img src="https://github.com/DonaSarkar.png" width="100px;" alt="Dona Sarkar"/><br />
+        <sub><b>Dona Sarkar</b></sub></a><br />
+            <a href="https://github.com/DonaSarkar" title="talk">📢</a>
     </td>
     <td align="center"><a href="http://github.com/amynic">
         <img src="https://github.com/amynic.png" width="100px;" alt="Amy Boyd"/><br />
         <sub><b>Amy Boyd</b></sub></a><br />
             <a href="https://github.com/amynic" title="talk">📢</a>
     </td>
-    <td align="center">
-        <sub><b>April Dunham</b></sub><br />
-            📢
+    <td align="center"><a href="http://github.com/aprildunnam">
+        <img src="https://github.com/aprildunnam.png" width="100px;" alt="April Dunnam"/><br />
+        <sub><b>April Dunnam</b></sub></a><br />
+            <a href="https://github.com/aprildunnam" title="talk">📢</a>
     </td>
-    <td align="center">
-        <sub><b>Bethany Jepchumba</b></sub><br />
-            📢
+    <td align="center"><a href="http://github.com/BethanyJep">
+        <img src="https://github.com/BethanyJep.png" width="100px;" alt="Bethany Jepchumba"/><br />
+        <sub><b>Bethany Jepchumba</b></sub></a><br />
+            <a href="https://github.com/BethanyJep" title="talk">📢</a>
     </td>
 </tr></table>
 

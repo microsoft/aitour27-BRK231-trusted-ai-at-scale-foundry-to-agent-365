@@ -28,7 +28,7 @@ Before you deliver the session, please:
 | Resource | Link | Description |
 |---|---|---|
 | Session delivery deck | [BRK231-AITourFY27.pptx](assets/BRK231-AITourFY27.pptx) · [PDF](assets/BRK231-AITourFY27.pdf) | The session slides. Temporary repo link; replace with the public short link when available |
-| Full session recording | [With audio](assets/BRK231-full-session-recording.mp4) · [No audio](assets/BRK231-full-session-recording-no-audio.mp4) | The full session presentation, start to finish |
+| Full session recording | [With audio](assets/BRK231FullDelivery.mp4) · [No audio](assets/BRK231FullDelivery%20-%20no%20audio.mp4) | The full session presentation, start to finish |
 | Demo flows | [demos/README.md](demos/README.md) | Per-demo walkthroughs and prompts |
 | Scenario and reference | [../docs/README.md](../docs/README.md) | Caldova personas and the build, ground, secure and govern, and scale model |
 | Attendee instructions | [../instructions/README.md](../instructions/README.md) | Self-paced path for attendees after the session |
@@ -76,6 +76,6 @@ The deck is organized in five acts.
 
 ## Support
 
-Content owners: Dona Sarkar, Amy Boyd ([@amynic](https://github.com/amynic))
+Content owners: Dona Sarkar ([@DonaSarkar](https://github.com/DonaSarkar)), Amy Boyd ([@amynic](https://github.com/amynic))
 
-Speakers: April Dunham, Bethany Jepchumba
+Speakers: April Dunnam ([@aprildunnam](https://github.com/aprildunnam)), Bethany Jepchumba ([@BethanyJep](https://github.com/BethanyJep))
