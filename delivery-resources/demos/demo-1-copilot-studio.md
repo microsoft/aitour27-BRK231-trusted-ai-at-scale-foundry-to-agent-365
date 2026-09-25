@@ -1,6 +1,20 @@
-# Demo 1 — Building a conversational agent using Microsoft Copilot Studio
+# Demo 1 — Building a conversational agent (Microsoft Copilot Studio)
 
-> Recording: not yet available · Deck: slides 12 and 20–22
+> Recording: [Demo - no audio](../assets/demo-1-copilot-studio-no-audio.mp4) · [Demo - with audio](../assets/demo-1-copilot-studio-with-audio.mp4) · Deck: slides 12 and 20–22 ([PPTX](../assets/BRK231-AITourFY27.pptx) · [PDF](../assets/BRK231-AITourFY27.pdf))
+
+## Demo video
+
+### Demo - with audio
+
+<video src="../assets/demo-1-copilot-studio-with-audio.mp4" controls width="100%"></video>
+
+Can't see the player? [Open Demo - with audio](../assets/demo-1-copilot-studio-with-audio.mp4).
+
+### Demo - no audio
+
+<video src="../assets/demo-1-copilot-studio-no-audio.mp4" controls width="100%"></video>
+
+Can't see the player? [Open Demo - no audio](../assets/demo-1-copilot-studio-no-audio.mp4).
 
 ## What this demo shows
 
@@ -19,22 +33,21 @@ exactly which clauses support the recommendation.
 
 ## Where the demo happens
 
-- [Microsoft Copilot Studio](https://copilotstudio.microsoft.com)
-- The Caldova supplier portal (contracts), open in a second tab
+| The video shows… | In… |
+|---|---|
+| The supplier intelligence agent answering Charlotte's question | Microsoft Copilot Studio |
+| The supporting contracts | The Caldova supplier portal |
 
 ## Before you start
 
-- The supplier intelligence agent is created and connected to Caldova's supplier contracts,
-  sourcing policies, and supplier data.
-
-## Steps
-
-_Add the click-by-click steps after recording._
+- Play this demo from the video. Don't run it live.
+- Narrate over **Demo - no audio**, or play **Demo - with audio**.
 
 ## Questions used
 
-> Which suppliers can take on additional tablet production, and which option requires the
-> fewest contract changes?
+| Ask | Source |
+|---|---|
+| Which suppliers can take on additional tablet production, and which option requires the fewest contract changes? | Supplier contracts, sourcing policies, and supplier data |
 
 ## Expected result
 
@@ -49,7 +62,3 @@ the core manufacturing scope for ALLER tablets:
 
 **Outcome:** faster, defensible procurement decisions that help critical medicines reach
 patients on time.
-
-## Transcript
-
-_After recording, paste the final timed transcript here._

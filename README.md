@@ -47,7 +47,7 @@ Learn how Microsoft Foundry, GitHub Copilot, Copilot Studio, and Agent 365 work 
 
 If you're following along during a live session:
 
-1. Follow the three live demos: Copilot Studio, Microsoft Foundry, and Agent 365.
+1. Watch the three demos: Copilot Studio, Microsoft Foundry, and Agent 365.
 2. Scan the QR code on the closing slide, or visit [aka.ms/aitour27/BRK231](https://aka.ms/aitour27/BRK231), to open this repository.
 3. After the session, open [`instructions/`](instructions/README.md) to try each step at your own pace.
 
@@ -132,6 +132,14 @@ For more information, visit the [Learn MCP Server repo](https://aka.ms/learnmcp)
         <img src="https://github.com/amynic.png" width="100px;" alt="Amy Boyd"/><br />
         <sub><b>Amy Boyd</b></sub></a><br />
             <a href="https://github.com/amynic" title="talk">📢</a>
+    </td>
+    <td align="center">
+        <sub><b>April Dunham</b></sub><br />
+            📢
+    </td>
+    <td align="center">
+        <sub><b>Bethany Jepchumba</b></sub><br />
+            📢
     </td>
 </tr></table>
 

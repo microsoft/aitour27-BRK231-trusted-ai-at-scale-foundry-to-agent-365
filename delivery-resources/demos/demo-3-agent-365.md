@@ -1,6 +1,20 @@
-# Demo 3 — Observe, onboard, and govern agents in Agent 365
+# Demo 3 — Observe, onboard, and govern agents (Agent 365)
 
-> Recording: not yet available · Deck: slides 34–57
+> Recording: [Demo - no audio](../assets/demo-3-agent-365-no-audio.mp4) · [Demo - with audio](../assets/demo-3-agent-365-with-audio.mp4) · Deck: slides 34–57 ([PPTX](../assets/BRK231-AITourFY27.pptx) · [PDF](../assets/BRK231-AITourFY27.pdf))
+
+## Demo video
+
+### Demo - with audio
+
+<video src="../assets/demo-3-agent-365-with-audio.mp4" controls width="100%"></video>
+
+Can't see the player? [Open Demo - with audio](../assets/demo-3-agent-365-with-audio.mp4).
+
+### Demo - no audio
+
+<video src="../assets/demo-3-agent-365-no-audio.mp4" controls width="100%"></video>
+
+Can't see the player? [Open Demo - no audio](../assets/demo-3-agent-365-no-audio.mp4).
 
 ## What this demo shows
 
@@ -34,24 +48,18 @@ Capabilities covered in this act:
 
 ## Where the demo happens
 
-- The [Microsoft 365 admin center](https://admin.microsoft.com) → **Agents**
-- Microsoft Purview, open in a second tab
+| The video shows… | In… |
+|---|---|
+| Observing and governing agents in the agent registry | Microsoft 365 admin center → **Agents** |
+| Audit and communication compliance | Microsoft Purview |
 
 ## Before you start
 
-- Signed in to the Microsoft 365 admin center with an admin account that has Agent 365.
-- The supplier intelligence agent from Demo 1 appears in the agent registry.
-
-## Steps
-
-_Add the click-by-click steps after recording._
+- Play this demo from the video. Don't run it live.
+- Narrate over **Demo - no audio**, or play **Demo - with audio**.
 
 ## Expected result
 
 The supplier intelligence agent is no longer just a bot. It's a governed enterprise asset, with
 a sponsor (Charlotte Waltson), owners and users, data and tools, identity and access, security
 policies, activity and value, and lifecycle controls (approve, update, suspend, retire).
-
-## Transcript
-
-_After recording, paste the final timed transcript here._

@@ -1,6 +1,20 @@
-# Demo 2 — Optimizing the invoice assurance agent in Microsoft Foundry
+# Demo 2 — Optimizing the invoice assurance agent (Microsoft Foundry portal)
 
-> Recording: not yet available · Deck: slides 24–32
+> Recording: [Demo - no audio](../assets/demo-2-microsoft-foundry-no-audio.mp4) · [Demo - with audio](../assets/demo-2-microsoft-foundry-with-audio.mp4) · Deck: slides 24–32 ([PPTX](../assets/BRK231-AITourFY27.pptx) · [PDF](../assets/BRK231-AITourFY27.pdf))
+
+## Demo video
+
+### Demo - with audio
+
+<video src="../assets/demo-2-microsoft-foundry-with-audio.mp4" controls width="100%"></video>
+
+Can't see the player? [Open Demo - with audio](../assets/demo-2-microsoft-foundry-with-audio.mp4).
+
+### Demo - no audio
+
+<video src="../assets/demo-2-microsoft-foundry-no-audio.mp4" controls width="100%"></video>
+
+Can't see the player? [Open Demo - no audio](../assets/demo-2-microsoft-foundry-no-audio.mp4).
 
 ## What this demo shows
 
@@ -21,22 +35,23 @@ fine-tuned model**.
 
 ## Where the demo happens
 
-- The [Microsoft Foundry portal](https://ai.azure.com) → the `contract-policy-evidence` agent
-  (Playground, Traces, Evaluation, and Optimize tabs)
+| The video shows… | In… |
+|---|---|
+| Chatting with the `contract-policy-evidence` agent | Microsoft Foundry portal — Playground |
+| Production traces and evaluation results | Microsoft Foundry portal — Traces and Evaluation tabs |
+| Fine-tuning a smaller model from the traces | Microsoft Foundry portal — Optimize tab |
 
 ## Before you start
 
-- The `contract-policy-evidence` agent is deployed (the recording uses `gpt-5.4-mini`) and has
-  production traces.
-
-## Steps
-
-_Add the click-by-click steps after recording._
+- Play this demo from the video. Don't run it live.
+- Narrate over **Demo - no audio**, or play **Demo - with audio**.
+- The recording uses `gpt-5.4-mini` as the agent's model.
 
 ## Questions used
 
-> Can we maintain the quality of our agent but scale it further without increasing cost and
-> latency?
+| Ask | Source |
+|---|---|
+| Can we maintain the quality of our agent but scale it further without increasing cost and latency? | Framing question for the demo |
 
 Sample input shown in the Playground:
 
@@ -54,7 +69,3 @@ S07-scn-sup-007-storage-after-close invalid_storage_period INV-SUP-007-2026-10
 
 > Slide 30 compares a tuned small model with frontier models. Its figures come from an internal
 > benchmark by the MAI Frontier Tuning team; present them as stated on the slide.
-
-## Transcript
-
-_After recording, paste the final timed transcript here._

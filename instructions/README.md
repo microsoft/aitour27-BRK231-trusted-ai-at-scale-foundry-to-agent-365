@@ -34,7 +34,7 @@ Agent 365.
    fewest contract changes?"*
 4. Check that the answer cites the evidence behind its recommendation.
 
-See [Demo 1](../delivery-resources/demos/copilot-studio.md) for the expected result.
+See [Demo 1](../delivery-resources/demos/demo-1-copilot-studio.md) for the expected result.
 Go deeper with [Agent Academy](https://aka.ms/Agent-Academy).
 
 ### 2. Optimize an agent in Microsoft Foundry
@@ -44,7 +44,7 @@ Go deeper with [Agent Academy](https://aka.ms/Agent-Academy).
 3. Turn production traces into a training dataset, then fine-tune a smaller model.
 4. Compare the fine-tuned model with the original on quality and cost.
 
-See [Demo 2](../delivery-resources/demos/foundry.md) for the scenario.
+See [Demo 2](../delivery-resources/demos/demo-2-microsoft-foundry.md) for the scenario.
 Go deeper with [Learn Microsoft Foundry](https://aka.ms/AITourFoundryIntro).
 
 ### 3. Observe and govern agents with Agent 365
@@ -56,7 +56,7 @@ Go deeper with [Learn Microsoft Foundry](https://aka.ms/AITourFoundryIntro).
    lifecycle policies.
 4. Use Microsoft Purview to review agent activity for audit and compliance.
 
-See [Demo 3](../delivery-resources/demos/agent-365.md) for the capabilities covered.
+See [Demo 3](../delivery-resources/demos/demo-3-agent-365.md) for the capabilities covered.
 Go deeper with [Learn Agent 365](https://aka.ms/A365Learn).
 
 ## Get help with Agent 365
