@@ -1,7 +1,5 @@
 # Docs
 
-<!-- AI TOUR TEMPLATE PLACEHOLDER: remove this folder when the session needs no additional documentation. -->
-
 Background and reference material for BRK231.
 
 ## The Caldova scenario

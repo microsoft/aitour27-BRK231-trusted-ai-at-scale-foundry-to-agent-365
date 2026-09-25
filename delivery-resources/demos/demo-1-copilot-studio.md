@@ -1,20 +1,6 @@
 # Demo 1 — Building a conversational agent (Microsoft Copilot Studio)
 
-> Recording: [Demo - no audio](../assets/demo-1-copilot-studio-no-audio.mp4) · [Demo - with audio](../assets/demo-1-copilot-studio-with-audio.mp4) · Deck: slides 12 and 20–22 ([PPTX](../assets/BRK231-AITourFY27.pptx) · [PDF](../assets/BRK231-AITourFY27.pdf))
-
-## Demo video
-
-### Demo - with audio
-
-<video src="../assets/demo-1-copilot-studio-with-audio.mp4" controls width="100%"></video>
-
-Can't see the player? [Open Demo - with audio](../assets/demo-1-copilot-studio-with-audio.mp4).
-
-### Demo - no audio
-
-<video src="../assets/demo-1-copilot-studio-no-audio.mp4" controls width="100%"></video>
-
-Can't see the player? [Open Demo - no audio](../assets/demo-1-copilot-studio-no-audio.mp4).
+> Recording: [Session recording](https://aka.ms/aitour27/BRK231/youtube) · Deck: slides 12 and 20–22 ([Slides](https://aka.ms/aitour27/BRK231/slides/en))
 
 ## What this demo shows
 
@@ -41,7 +27,6 @@ exactly which clauses support the recommendation.
 ## Before you start
 
 - Play this demo from the video. Don't run it live.
-- Narrate over **Demo - no audio**, or play **Demo - with audio**.
 
 ## Questions used
 

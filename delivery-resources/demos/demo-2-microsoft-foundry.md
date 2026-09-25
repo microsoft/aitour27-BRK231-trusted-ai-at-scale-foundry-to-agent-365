@@ -1,20 +1,6 @@
 # Demo 2 — Optimizing the invoice assurance agent (Microsoft Foundry portal)
 
-> Recording: [Demo - no audio](../assets/demo-2-microsoft-foundry-no-audio.mp4) · [Demo - with audio](../assets/demo-2-microsoft-foundry-with-audio.mp4) · Deck: slides 24–32 ([PPTX](../assets/BRK231-AITourFY27.pptx) · [PDF](../assets/BRK231-AITourFY27.pdf))
-
-## Demo video
-
-### Demo - with audio
-
-<video src="../assets/demo-2-microsoft-foundry-with-audio.mp4" controls width="100%"></video>
-
-Can't see the player? [Open Demo - with audio](../assets/demo-2-microsoft-foundry-with-audio.mp4).
-
-### Demo - no audio
-
-<video src="../assets/demo-2-microsoft-foundry-no-audio.mp4" controls width="100%"></video>
-
-Can't see the player? [Open Demo - no audio](../assets/demo-2-microsoft-foundry-no-audio.mp4).
+> Recording: [Session recording](https://aka.ms/aitour27/BRK231/youtube) · Deck: slides 24–32 ([Slides](https://aka.ms/aitour27/BRK231/slides/en))
 
 ## What this demo shows
 
@@ -44,7 +30,6 @@ fine-tuned model**.
 ## Before you start
 
 - Play this demo from the video. Don't run it live.
-- Narrate over **Demo - no audio**, or play **Demo - with audio**.
 - The recording uses `gpt-5.4-mini` as the agent's model.
 
 ## Questions used

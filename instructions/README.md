@@ -1,7 +1,5 @@
 # Attendee instructions
 
-<!-- AI TOUR TEMPLATE PLACEHOLDER: remove this folder when the session has no attendee step-by-step guidance. -->
-
 A self-paced path through the three BRK231 demos: build a conversational agent in Microsoft
 Copilot Studio, optimize an agent in Microsoft Foundry, and govern your agents with Microsoft
 Agent 365.

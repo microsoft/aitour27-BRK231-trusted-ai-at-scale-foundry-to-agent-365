@@ -13,13 +13,13 @@ agent across the enterprise.
 
 ## Demos
 
-| # | Demo | What it shows | Starts in | Videos |
-|---|---|---|---|---|
-| 1 | [Copilot Studio](demo-1-copilot-studio.md) | A supplier intelligence agent that reasons over contracts and returns an evidence-backed recommendation | Microsoft Copilot Studio | [Demo - no audio](../assets/demo-1-copilot-studio-no-audio.mp4) · [Demo - with audio](../assets/demo-1-copilot-studio-with-audio.mp4) |
-| 2 | [Microsoft Foundry](demo-2-microsoft-foundry.md) | Optimizing the invoice assurance agent by fine-tuning a smaller model on production traces | Microsoft Foundry portal | [Demo - no audio](../assets/demo-2-microsoft-foundry-no-audio.mp4) · [Demo - with audio](../assets/demo-2-microsoft-foundry-with-audio.mp4) |
-| 3 | [Agent 365](demo-3-agent-365.md) | Observing, onboarding, and governing agents across the enterprise | Microsoft 365 admin center | [Demo - no audio](../assets/demo-3-agent-365-no-audio.mp4) · [Demo - with audio](../assets/demo-3-agent-365-with-audio.mp4) |
+| # | Demo | What it shows | Starts in |
+|---|---|---|---|
+| 1 | [Copilot Studio](demo-1-copilot-studio.md) | A supplier intelligence agent that reasons over contracts and returns an evidence-backed recommendation | Microsoft Copilot Studio |
+| 2 | [Microsoft Foundry](demo-2-microsoft-foundry.md) | Optimizing the invoice assurance agent by fine-tuning a smaller model on production traces | Microsoft Foundry portal |
+| 3 | [Agent 365](demo-3-agent-365.md) | Observing, onboarding, and governing agents across the enterprise | Microsoft 365 admin center |
 
-Deck: [BRK231-AITourFY27.pptx](../assets/BRK231-AITourFY27.pptx) · [PDF](../assets/BRK231-AITourFY27.pdf)
+Deck: [Slides](https://aka.ms/aitour27/BRK231/slides/en) · Recording: [Session recording](https://aka.ms/aitour27/BRK231/youtube)
 
 ## Play the demos from video
 
@@ -28,14 +28,6 @@ setup, production traces, and fine-tuning jobs that can't be reproduced reliably
 
 ## Global pre-demo checklist (T-10 min)
 
-- [ ] All demo videos are downloaded to your presentation device.
-- [ ] You've chosen, per demo, whether to narrate over **Demo - no audio** or play
-      **Demo - with audio**.
+- [ ] The demo segments from the session recording are ready on your presentation device.
 - [ ] Playback and audio are tested on the venue display.
-- [ ] Each video is queued next to its slide.
-
-## Delivery notes
-
-- Each demo has two clips: **Demo - no audio** (a clean capture for you to narrate over as it
-  plays) and **Demo - with audio** (the narrated version).
-- Recording links go in the table above and in each demo file's header.
+- [ ] Each demo segment is queued next to its slide.

@@ -1,20 +1,6 @@
 # Demo 3 — Observe, onboard, and govern agents (Agent 365)
 
-> Recording: [Demo - no audio](../assets/demo-3-agent-365-no-audio.mp4) · [Demo - with audio](../assets/demo-3-agent-365-with-audio.mp4) · Deck: slides 34–57 ([PPTX](../assets/BRK231-AITourFY27.pptx) · [PDF](../assets/BRK231-AITourFY27.pdf))
-
-## Demo video
-
-### Demo - with audio
-
-<video src="../assets/demo-3-agent-365-with-audio.mp4" controls width="100%"></video>
-
-Can't see the player? [Open Demo - with audio](../assets/demo-3-agent-365-with-audio.mp4).
-
-### Demo - no audio
-
-<video src="../assets/demo-3-agent-365-no-audio.mp4" controls width="100%"></video>
-
-Can't see the player? [Open Demo - no audio](../assets/demo-3-agent-365-no-audio.mp4).
+> Recording: [Session recording](https://aka.ms/aitour27/BRK231/youtube) · Deck: slides 34–57 ([Slides](https://aka.ms/aitour27/BRK231/slides/en))
 
 ## What this demo shows
 
@@ -56,7 +42,6 @@ Capabilities covered in this act:
 ## Before you start
 
 - Play this demo from the video. Don't run it live.
-- Narrate over **Demo - no audio**, or play **Demo - with audio**.
 
 ## Expected result
 
