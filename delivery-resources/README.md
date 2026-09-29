@@ -1,45 +1,78 @@
 # Delivery resources
 
-<!-- AI TOUR TEMPLATE PLACEHOLDER: replace the required deck link before publication. Optional recording links can remain unavailable. -->
+## How to deliver this session
 
-Presenter, re-delivery, and train-the-trainer materials for this session.
+🥇 Thanks for delivering this session!
 
-## Core materials
+Presenter and train-the-trainer materials for **BRK231 — Trusted AI at scale: Foundry to
+Agent 365**. The session follows **Caldova Pharmaceuticals**, a fictional global
+pharmaceutical company responding to a sudden manufacturing capacity gap. Caldova builds a
+supplier intelligence agent in Microsoft Copilot Studio, optimizes an invoice assurance agent
+in Microsoft Foundry, and governs its growing agent estate with Microsoft Agent 365.
 
-| Item | Link | Notes |
+Before you deliver the session, please:
+
+1. Read this document and every linked resource in full.
+2. Watch the full session recording, including all three demos.
+3. Open the delivery deck and review the Caldova storyline and the five acts.
+4. Prepare the demo videos and test playback (see [Prepare the demo videos](#-prepare-the-demo-videos)).
+5. Rehearse each demo with its video and the talking points in [`demos/`](demos/README.md).
+
+> **Play the demos from video. Don't run them live.** The demos depend on tenant setup,
+> production traces, and fine-tuning jobs that can't be reproduced reliably on stage.
+
+## 📁 File summary
+
+| Resource | Link | Description |
 |---|---|---|
-| Delivery deck | [English](https://aka.ms/aitour27/BRK231/slides/en) | Required URL |
-| Attendee landing page | [Session README](../README.md) | Public starting point |
-| Workshop/lab instructions | [Instructions](../instructions/README.md) | Remove this row when not applicable |
+| Delivery deck | [https://aka.ms/aitour27/BRK231/slides/en](https://aka.ms/aitour27/BRK231/slides/en) | The session slides (English) |
+| Full session recording | [https://aka.ms/aitour27/BRK231/youtube](https://aka.ms/aitour27/BRK231/youtube) | The full session presentation, start to finish, including all three demos |
+| Demo flows | [demos/README.md](demos/README.md) | Per-demo walkthroughs and prompts |
+| Scenario and reference | [../docs/README.md](../docs/README.md) | Caldova personas and the build, ground, secure and govern, and scale model |
+| Attendee instructions | [../instructions/README.md](../instructions/README.md) | Self-paced path for attendees after the session |
 
-## Delivery checklist
+## 🖥️ Demo videos
 
-- Review the session README
-- Review the attendee instructions
-- Open the deck
-- Review the presenter guidance below
-- Review live demo reproducibility guidance
-- Validate any required environment or setup
+Play each demo from video. All three demos are in the
+[session recording](https://aka.ms/aitour27/BRK231/youtube). The talking points for each demo
+are in the linked instructions.
 
-## Session preparation
-
-- Review the attendee entry point from the root README.
-- Review the delivery deck.
-- Validate the required environment and setup.
+| # | Demo | Instructions |
+|---|---|---|
+| 1 | Building a conversational agent using Microsoft Copilot Studio | [Demo instructions](demos/demo-1-copilot-studio.md) |
+| 2 | Optimizing the invoice assurance agent in Microsoft Foundry | [Demo instructions](demos/demo-2-microsoft-foundry.md) |
+| 3 | Observe, onboard, and govern agents in Agent 365 | [Demo instructions](demos/demo-3-agent-365.md) |
 
 ## Run of show
 
-Add timing, transitions, and delivery notes.
+The deck is organized in five acts.
 
-## Demo reproducibility
+| Act | Slides | Content | Demo |
+|---|---|---|---|
+| 1 — Understand the AI scale challenge | 4–10 | Audience question, Caldova introduction and org chart, why pilots stall, one connected system to build, ground, secure and govern, and scale | — |
+| 2 — Build conversational agents grounded in business data | 11–22 | Charlotte's supplier question, why customers build with Copilot Studio, connectors, hybrid automation, the GitHub Copilot harness, channels, the Copilot Studio model | [Demo 1](demos/demo-1-copilot-studio.md) (slides 20–22) |
+| 3 — Fine-tune AI models with business data and build AI apps and agents | 23–32 | Sarah's invoice assurance agent, the Microsoft Foundry optimization ladder, fine-tuning, traces to training data, small tuned model vs. frontier | [Demo 2](demos/demo-2-microsoft-foundry.md) (slides 31–32) |
+| 4 — Govern your AI workloads | 33–58 | Carlos's enterprise-wide question, the agent registry, Agent 365 Observe, Govern, and Secure | [Demo 3](demos/demo-3-agent-365.md) (slides 56–57) |
+| 5 — What have we learned today? | 59–63 | Key takeaways, get started with Agent 365, next steps, repo QR code | — |
 
-If the session includes live demos, link to or include the steps, code, setup,
-and notes required to reproduce them.
+## 🏋️ Prepare the demo videos
 
-## Setup notes
+### What the demo videos show
 
-Use this section for short setup reminders. Link to detailed setup notes if needed.
+- **Demo 1** — Microsoft Copilot Studio, with a supplier intelligence agent grounded in
+  Caldova's supplier contracts, sourcing policies, and supplier data.
+- **Demo 2** — a Microsoft Foundry project with the `contract-policy-evidence` invoice
+  assurance agent, its production traces, and fine-tuning.
+- **Demo 3** — the Microsoft 365 admin center with Agent 365, and Microsoft Purview.
+
+### Pre-flight checks
+
+- Have the demo segments from the session recording ready on your presentation device. Don't rely on venue Wi-Fi.
+- Test playback and audio on the venue display before the session.
+- Queue each demo segment next to its slide (slides 20–22, 31–32, and 56–57).
 
 ## Support
 
-Content owner or contact:
+Content owners: Dona Sarkar ([@DonaSarkar](https://github.com/DonaSarkar)), Amy Boyd ([@amynic](https://github.com/amynic))
+
+Speakers: April Dunnam ([@aprildunnam](https://github.com/aprildunnam)), Bethany Jepchumba ([@BethanyJep](https://github.com/BethanyJep))
