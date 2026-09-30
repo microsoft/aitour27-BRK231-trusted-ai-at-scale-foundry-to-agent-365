@@ -64,6 +64,7 @@ Pick your next step based on your learning style:
 
 | Resource | What you'll get |
 |----------|-----------------|
+| **[Session Recording](https://aka.ms/aitour27/BRK231/youtube)** | A recording of session BRK231 by the session creator |
 | **[Learn Microsoft Foundry](https://aka.ms/AITourFoundryIntro)** | Get started building AI apps and agents with Microsoft Foundry |
 | **[Agent Academy](https://aka.ms/Agent-Academy)** | Learn to build agents with Microsoft Copilot Studio |
 | **[Learn Agent 365](https://aka.ms/A365Learn)** | Learn to observe, govern, and secure agents with Microsoft Agent 365 |
