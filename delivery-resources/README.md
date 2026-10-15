@@ -25,8 +25,8 @@ Before you deliver the session, please:
 
 | Resource | Link | Description |
 |---|---|---|
-| Delivery deck | Slides: [English](https://aka.ms/aitour27/BRK231/slides/en) | The session slides (English) |
-| Full session recording | [https://aka.ms/aitour27/BRK231/youtube](https://aka.ms/aitour27/BRK231/youtube) | The full session presentation, start to finish, including all three demos |
+| Delivery deck | Slides: [English](https://aka.ms/ft27/brk231/slides/en) | The session slides (English) |
+| Full session recording | [https://aka.ms/ft27/brk231/youtube](https://aka.ms/ft27/brk231/youtube) | The full session presentation, start to finish, including all three demos |
 | Demo flows | [demos/README.md](demos/README.md) | Per-demo walkthroughs and prompts |
 | Scenario and reference | [../docs/README.md](../docs/README.md) | Caldova personas and the build, ground, secure and govern, and scale model |
 | Attendee instructions | [../instructions/README.md](../instructions/README.md) | Self-paced path for attendees after the session |
@@ -34,7 +34,7 @@ Before you deliver the session, please:
 ## 🖥️ Demo videos
 
 Play each demo from video. All three demos are in the
-[session recording](https://aka.ms/aitour27/BRK231/youtube). The talking points for each demo
+[session recording](https://aka.ms/ft27/brk231/youtube). The talking points for each demo
 are in the linked instructions.
 
 | # | Demo | Instructions |
