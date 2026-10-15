@@ -1,10 +1,10 @@
 <a name="start-building"></a>
 
 <p align="center">
-<img src="img/banner-ai-tour-27.png" alt="Microsoft AI Tour 2027" width="100%"/>
+<img src="img/banner-frontier-tour-27.png" alt="Microsoft Frontier Tour 2027" width="100%"/>
 </p>
 
-# [Microsoft AI Tour 2027](https://aitour.microsoft.com)
+# [Frontier Tour 2027](https://aitour.microsoft.com)
 
 ## 🔥 BRK231: Trusted AI at scale: Foundry to Agent 365
 
@@ -21,7 +21,7 @@ Learn how Microsoft Foundry, GitHub Copilot, Copilot Studio, and Agent 365 work 
 If you're following along during a live session:
 
 1. Watch the three demos: Copilot Studio, Microsoft Foundry, and Agent 365.
-2. Scan the QR code on the closing slide, or visit [aka.ms/aitour27/BRK231](https://aka.ms/aitour27/BRK231), to open this repository.
+2. Scan the QR code on the closing slide, or visit [aka.ms/ft27/BRK231](https://aka.ms/ft27/BRK231), to open this repository.
 3. After the session, open [`instructions/`](instructions/README.md) to try each step at your own pace.
 
 #### On your own
@@ -70,8 +70,8 @@ Pick your next step based on your learning style:
 | **[Agent Academy](https://aka.ms/Agent-Academy)** | Learn to build agents with Microsoft Copilot Studio |
 | **[Learn Agent 365](https://aka.ms/A365Learn)** | Learn to observe, govern, and secure agents with Microsoft Agent 365 |
 | **[Microsoft Learn](https://learn.microsoft.com)** | Official documentation and guided learning paths on these topics |
-| **[AI Tour 2027 Resource Center](https://aka.ms/aitour27-resource-center)** | Additional session repos and materials from AI Tour 2027 |
-| **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-AITour27)** | Connect with other learners and experts in our Discord community |
+| **[Frontier Tour 2027 Resource Center](https://aka.ms/FrontierTour27)** | Additional session repos and materials from Frontier Tour 2027 |
+| **[Microsoft Foundry Community](https://aka.ms/MicrosoftFoundryDiscord-ft27)** | Connect with other learners and experts in our Discord community |
 
 ### 🌟 Microsoft Learn MCP Server
 
